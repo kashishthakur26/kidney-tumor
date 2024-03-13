@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91623/Desktop/kidney-tumor/mlruns/0/fe76a16a910e4e7da819f3534ffd4aab/artifacts
+end_time: 1710319715482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe76a16a910e4e7da819f3534ffd4aab
+run_name: chill-yak-693
+run_uuid: fe76a16a910e4e7da819f3534ffd4aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710319699597
+status: 3
+tags: []
+user_id: '91623'
