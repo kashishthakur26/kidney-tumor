@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91623/Desktop/kidney-tumor/mlruns/0/cb3c443a8baf49979c71b11ef57ab8bc/artifacts
+end_time: 1710333464998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb3c443a8baf49979c71b11ef57ab8bc
+run_name: fun-mink-750
+run_uuid: cb3c443a8baf49979c71b11ef57ab8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710333454258
+status: 3
+tags: []
+user_id: '91623'
